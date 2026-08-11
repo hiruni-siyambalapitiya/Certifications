@@ -15,7 +15,7 @@
 ### 📜 Certificates
 
 <p align="center">
-  <img src="Certification/databricks-sql-bi.png" width="45%">
-  <img src="certification/power-bi.png" width="45%">
+  <img src="Certification/databricks-sql-bi.PNG" width="45%">
+  <img src="certification/power-bi.PNG" width="45%">
 </p>
 
