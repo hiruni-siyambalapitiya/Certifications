@@ -19,3 +19,8 @@
   <img src="Certification/power-bi.PNG" width="45%">
 </p>
 
+<p align="center">
+  <img src="Certification/snowflake.PNG" width="45%">
+  <img src="Certification/hp-data-science.PNG" width="45%">
+</p>
+
