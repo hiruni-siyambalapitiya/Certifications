@@ -16,6 +16,6 @@
 
 <p align="center">
   <img src="Certification/databricks-sql-bi.PNG" width="45%">
-  <img src="certification/power-bi.PNG" width="45%">
+  <img src="Certification/power-bi.PNG" width="45%">
 </p>
 
