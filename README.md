@@ -12,4 +12,10 @@
 | **Data Science & Analytics** | HP LIFE Online Learning | 2025 |
 | **Agile Software Development** | LinkedIn Learning | May 2026 |
 
+### 📜 Certificates
+
+<p align="center">
+  <img src="certifications/databricks-sql-bi.png" width="45%">
+  <img src="certifications/power-bi.png" width="45%">
+</p>
 
