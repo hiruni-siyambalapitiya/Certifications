@@ -24,3 +24,6 @@
   <img src="Certification/hp-data-science.PNG" width="45%">
 </p>
 
+<p align="center">
+  <img src="Certification/agile-software-development.PNG" width="45%">
+</p>
